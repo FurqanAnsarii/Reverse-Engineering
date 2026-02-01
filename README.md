@@ -1,2 +1,2 @@
 # Reverse-Engineering
-Automated Multi-Threaded Forensic Tool for CTF &amp; Digital Investigations
+A powerful Python-based automation script designed to streamline CTF challenges and binary analysis. It combines deep static scanning with safe dynamic tracing to extract hidden flags, passwords, and metadata automatically
